@@ -1,0 +1,14 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║     🌱 SMART WASTE SEGREGATION DUSTBIN - 3D INTERACTIVE PROTOTYPE 🌱    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+Welcome to the Smart Waste Segregation Dustbin!
+
+QUICK START:
+1. Open smart_dustbin_prototype.html in your browser.
+2. Use the left panel to drop waste or activate the sorting mechanisms.
+3. Use the top right panel to change 3D camera views.
+
+Enjoy exploring the interactive prototype!
